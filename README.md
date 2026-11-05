@@ -26,7 +26,7 @@ Customization examples are organized by domain. As the repository grows, content
 - **Backend** — API extensions, custom business logic, service integrations
 - **UI** — Frontend customizations, component extensions, theme patterns
 - **Agentic AI** — Agent definitions, tool integrations, orchestration patterns for OMS workflows
-- **Skills** — Conversational skills and callable actions for OMS use cases
+- **[Skills](skills/README.md)** — Conversational skills and callable actions for OMS use cases
 
 > The repository is actively growing. Check [Issues](https://github.com/IBM/oms-reference-customizations/issues) and [Discussions](https://github.com/IBM/oms-reference-customizations/discussions) for planned examples and to request new ones.
 
